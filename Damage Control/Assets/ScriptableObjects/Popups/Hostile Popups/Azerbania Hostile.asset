@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44b82aebdb980154cae9f9363395d8a6, type: 3}
+  m_Name: Azerbania Hostile
+  m_EditorClassIdentifier: 
+  popupText: 'To think that the Republic of Bordoria would presume to insult us in
+    such a brazen manner! We will not forgive your siding with  Azerbania''s enemies.
+    Retribution will be swift. '
+  popupPrefab: {fileID: 114206270676902278, guid: 49300b010e05ed045beee4d628db8bcf,
+    type: 2}
+  popupSound: Hostile 1
+  popupTitle: Azerbania declares No-Fly Zone
+  popupSpeakerName: Prime Minister Buri
+  popupSprite: {fileID: 21300000, guid: 4d0eab140dfc28849b724e431443fc12, type: 3}
+  titleColor: {r: 1, g: 0, b: 0, a: 1}

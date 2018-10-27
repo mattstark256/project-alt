@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44b82aebdb980154cae9f9363395d8a6, type: 3}
+  m_Name: Win 2
+  m_EditorClassIdentifier: 
+  popupText: Our diplomatic corps will have smooth over tensions with the country
+    you ended up alienating, but what's done is done. All things considered, it could
+    have been much worse.
+  popupPrefab: {fileID: 114206270676902278, guid: 3e857be41f1e700438e45d66c7d3ce5c,
+    type: 2}
+  popupSound: General Annoyed
+  popupTitle: YOU WON. - 1 No-Fly Zone
+  popupSpeakerName: Colonel Aequalis
+  popupSprite: {fileID: 21300000, guid: dcc85b488001c954e99b8986cffdaa7d, type: 3}
+  titleColor: {r: 0.800279, g: 1, b: 0, a: 1}

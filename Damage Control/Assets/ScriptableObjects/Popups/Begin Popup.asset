@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44b82aebdb980154cae9f9363395d8a6, type: 3}
+  m_Name: Begin Popup
+  m_EditorClassIdentifier: 
+  popupText: 'What you thought would just be another day at work has turned out to
+    be far more than you bargained for as an international incident has sparked panic
+    in neighboring countries! Land as many planes from neighboring countries as possible
+    to keep the tensions of other countries under control. '
+  popupPrefab: {fileID: 114206270676902278, guid: e19fbcd8d25ae3942ae7b21dc9478163,
+    type: 2}
+  popupSound: 
+  popupTitle: Introduction
+  popupSpeakerName: 
+  popupSprite: {fileID: 21300000, guid: 700b5a2394a523142b387c036d1e4de3, type: 3}
+  titleColor: {r: 1, g: 1, b: 1, a: 1}

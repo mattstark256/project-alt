@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44b82aebdb980154cae9f9363395d8a6, type: 3}
+  m_Name: Win 3
+  m_EditorClassIdentifier: 
+  popupText: You're a bumbling incompetent! The Secretary General has been breathing
+    down my neck all day! Do you even realise how angry our neighbors are as a result
+    of your actions? Be glad we're letting you keep this job!
+  popupPrefab: {fileID: 114206270676902278, guid: 3e857be41f1e700438e45d66c7d3ce5c,
+    type: 2}
+  popupSound: General Angry
+  popupTitle: YOU WON? - 2 No-Fly Zones
+  popupSpeakerName: Colonel Aequalis
+  popupSprite: {fileID: 21300000, guid: dcc85b488001c954e99b8986cffdaa7d, type: 3}
+  titleColor: {r: 1, g: 0.5874088, b: 0, a: 1}
