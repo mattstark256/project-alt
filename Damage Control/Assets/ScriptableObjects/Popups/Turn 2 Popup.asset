@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: Turn 2 Popup
   m_EditorClassIdentifier: 
   popupText: This time there are more planes than airports. Whichever plane you don't
-    land will have to turn back, and this will negatively affect relations with its
-    country of origin.
+    land will have to turn back, and this will negatively impact our relationship
+    with its country of origin.
   popupPrefab: {fileID: 114206270676902278, guid: f101f7a1eddfc864f9beaf728625b977,
     type: 2}
   popupSound: General Passive

@@ -1226,8 +1226,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn1Popup: {fileID: 11400000, guid: 4bc85592984c4cf4c889ac8d39cd7c4d, type: 2}
   turn2Popup: {fileID: 11400000, guid: 0799f69842a59df4eab07be79e9aa922, type: 2}
+  turn2Popup2: {fileID: 11400000, guid: 2d28abe2e8112c644bc334d982d302fd, type: 2}
   turn3Popup: {fileID: 11400000, guid: c63a96d62c5da204590ad675c01a4f06, type: 2}
-  turn3Popup2: {fileID: 11400000, guid: 2d28abe2e8112c644bc334d982d302fd, type: 2}
   turn5Popup: {fileID: 11400000, guid: 7913bc8cca33fe74395ef79d5d300647, type: 2}
   introPopup: {fileID: 11400000, guid: 52e891bc1a70a8e45a68af9a6b4e23b1, type: 2}
 --- !u!114 &182661550

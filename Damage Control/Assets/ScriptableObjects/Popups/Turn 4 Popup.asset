@@ -11,9 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b82aebdb980154cae9f9363395d8a6, type: 3}
   m_Name: Turn 4 Popup
   m_EditorClassIdentifier: 
-  popupText: Some planes cause more of a negative impact than others when rejected.
-    Consider factors such as the number of passengers when deciding which planes to
-    land.
+  popupText: Some planes cause more of an impact when rejected than others. Consider
+    factors such as the number of passengers when deciding which planes to land.
   popupPrefab: {fileID: 114206270676902278, guid: f101f7a1eddfc864f9beaf728625b977,
     type: 2}
   popupSound: General Passive

@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -14,7 +14,7 @@ MonoBehaviour:
   flightCode: B981
   countryName: 3
   maxWaits: 0
-  significanceValue: 10
-  passengerCount: 94
+  significanceValue: 15
+  passengerCount: 137
   additionalDetails: 
   isCrucial: 0
