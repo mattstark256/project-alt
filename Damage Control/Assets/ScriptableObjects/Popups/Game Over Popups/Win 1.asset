@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -13,11 +13,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   popupText: Your quick thinking and careful planning has paid off! This crisis is
     over and you've successfully kept everyone pleased. I'll be certain to recommend
-    you for a promotion for this excellent display.
+    you for a promotion for your excellent work.
   popupPrefab: {fileID: 114206270676902278, guid: 3e857be41f1e700438e45d66c7d3ce5c,
     type: 2}
   popupSound: General Passive
-  popupTitle: YOU WON! - Perfect Victory!
+  popupTitle: GAME OVER! No enemies!
   popupSpeakerName: Colonel Aequalis
   popupSprite: {fileID: 21300000, guid: dcc85b488001c954e99b8986cffdaa7d, type: 3}
   titleColor: {r: 0.022774577, g: 1, b: 0, a: 1}

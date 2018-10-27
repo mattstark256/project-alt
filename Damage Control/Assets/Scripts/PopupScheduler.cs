@@ -8,7 +8,7 @@ public class PopupScheduler : MonoBehaviour
     PopupManager popupManager;
 
     [SerializeField]
-    private PopupSO turn1Popup, turn2Popup, turn3Popup, turn4Popup, turn5Popup;
+    private PopupSO turn1Popup, turn2Popup, turn3Popup, turn3Popup2, turn5Popup;
     [SerializeField]
     private PopupSO introPopup;
 
@@ -27,7 +27,7 @@ public class PopupScheduler : MonoBehaviour
         if (turn == 1) { PopupManager.instance.ShowPopup(turn1Popup); }
         if (turn == 2) { PopupManager.instance.ShowPopup(turn2Popup); }
         if (turn == 3) { PopupManager.instance.ShowPopup(turn3Popup); }
-        if (turn == 4) { PopupManager.instance.ShowPopup(turn4Popup); }
+        if (turn == 3) { PopupManager.instance.ShowPopup(turn3Popup2); }
         if (turn == 5) { PopupManager.instance.ShowPopup(turn5Popup); }
     }
 }

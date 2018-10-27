@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,14 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b82aebdb980154cae9f9363395d8a6, type: 3}
   m_Name: Turn 2 Popup
   m_EditorClassIdentifier: 
-  popupText: Unfortunately, we cannot land all the planes arriving this turn. You
-    must choose which will land and which must be re-routed back to their country
-    of origin. Be careful, rejected planes will complain to their mother country,
-    souring our relations with them.
+  popupText: This time there are more planes than airports. Whichever plane you don't
+    land will have to turn back, and this will negatively affect relations with its
+    country of origin.
   popupPrefab: {fileID: 114206270676902278, guid: f101f7a1eddfc864f9beaf728625b977,
     type: 2}
   popupSound: General Passive
-  popupTitle: Tutorial 2 (Decisions)
+  popupTitle: Rejecting planes
   popupSpeakerName: Colonel Aequalis
   popupSprite: {fileID: 21300000, guid: dcc85b488001c954e99b8986cffdaa7d, type: 3}
   titleColor: {r: 1, g: 1, b: 1, a: 1}
